@@ -1,4 +1,17 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Prog-Strength/.github/main/profile/prog-strength-logo.png" alt="Prog Strength logo" width="120">
+</p>
+
 # Prog Strength
+
+> [!NOTE]
+> **Prog Strength was retired in November 2026.** It was taken offline on purpose,
+> to stop paying for hosting, not because anything was wrong with it.
+> progstrength.fitness no longer serves the app. Every repository here is archived as
+> read-only, and the database, media, and infrastructure state are kept in cold storage:
+> [prog-strength-archive](https://github.com/Prog-Strength/prog-strength-archive)
+> documents what is stored and how to bring it back. Built by
+> [Jimmy Wallace](https://jwall.engineering/#projects).
 
 **An AI-native weight lifting assistant for serious lifters who care about progressive overload.**
 
@@ -119,7 +132,7 @@ The **agent** owns no per-conversation state — `/chat` is stateless, the front
 
 ## Status
 
-Early development. This is a portfolio side project being built in the open. The web app and backend stack are live at `progstrength.fitness`; the iOS app is actively in development. Expect breaking changes until the first tagged release.
+Retired in November 2026. The web app, iOS beta, and backend ran in production from May to November 2026 and were then shut down to cut hosting costs. The code stays here as read-only archives, and everything needed to bring the project back is in cold storage, documented in [`prog-strength-archive`](https://github.com/Prog-Strength/prog-strength-archive).
 
 ## License
 
